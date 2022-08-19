@@ -1,0 +1,16 @@
+
+
+.thbtext {
+    padding-bottom: 50px;
+
+  }
+  .nolinks{
+      text-decoration: none;
+  }
+
+  .mainpad{
+      padding-left: 50px;
+  }
+  
+
+  ul.nav a:hover { color: #ff6740 !important; }
